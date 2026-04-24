@@ -1,0 +1,855 @@
+1
+00:00:00,000 --> 00:00:06,620
+Ladies and gentlemen, thank you for standing by and welcome to the Etrion 2020 year-end report.
+
+2
+00:00:07,080 --> 00:00:12,080
+At this time, all participants are in a listen-only mode. After the speaker's presentation,
+
+3
+00:00:12,300 --> 00:00:17,239
+there will be a question and answer session. To ask a question during the session, you will need
+
+4
+00:00:17,239 --> 00:00:22,920
+to press star 1 on your telephone keypad. If you require any further assistance, please press star
+
+5
+00:00:22,859 --> 00:00:28,160
+0. Please be advised that today's conference is being recorded. I would now like to hand the
+
+6
+00:00:28,420 --> 00:00:32,679
+conference over to Marco Antonio Northland, CEO. Please go ahead.
+
+7
+00:00:33,939 --> 00:00:41,000
+Thank you, Michelle. I would like to welcome you to Etrion's 2020 fourth quarter and four-year
+
+8
+00:00:41,000 --> 00:00:47,399
+operational finance update call. I'm here today with Cristian La Puebla, our Chief Financial
+
+9
+00:00:47,119 --> 00:00:54,340
+Officer, Martin Orebic, our Chief Investment Officer, and David Ramirez, our Director of
+
+10
+00:00:54,399 --> 00:01:00,939
+Accounting and Reporting. I will start today the call by taking you through the corporate
+
+11
+00:01:00,939 --> 00:01:08,140
+overview and operational update and outlook for our businesses. Then we will go through
+
+12
+00:01:08,140 --> 00:01:16,359
+our 2020 results, and finally, we will open the calls for questions. As a reminder, a replay of
+
+13
+00:01:16,359 --> 00:01:23,599
+this call will be available today on the company's website with a copy of the presentation that we
+
+14
+00:01:23,599 --> 00:01:30,260
+will offer and refer to throughout the call. For those of you using our webcast facility,
+
+15
+00:01:31,019 --> 00:01:33,939
+the slides will automatically advance during the presentation.
+
+16
+00:01:36,060 --> 00:01:42,859
+If you turn to slide 2, there is a disclaimer on which, during today's call, we will make
+
+17
+00:01:42,859 --> 00:01:47,239
+forward-looking statements that are subject to various risks and uncertainties described
+
+18
+00:01:47,239 --> 00:01:53,719
+in the second slide of this presentation and in our 2020 management discussion and analysis and
+
+19
+00:01:53,719 --> 00:01:58,920
+press release, all of which are available on our website. Please see these documents
+
+20
+00:01:58,920 --> 00:02:03,299
+for additional information and factors that may impact these forward-looking statements.
+
+21
+00:02:05,019 --> 00:02:13,960
+Please now turn to slide 3. Etrion has a dual listing in Canada under TSX
+
+22
+00:02:16,120 --> 00:02:23,280
+and under the ETX symbol, as well as OMX in Sweden, as well under the ETX symbol.
+
+23
+00:02:23,939 --> 00:02:30,819
+We have 57 networks operational, 45 networks under construction, all fully funded,
+
+24
+00:02:31,180 --> 00:02:38,780
+which are all in Japan. We exited 2020 with a strong cash flow position of $8.9 million
+
+25
+00:02:38,780 --> 00:02:48,280
+of non-restricted cash. The main shareholder is the Lundin Group with 36%, and second is the
+
+26
+00:02:48,280 --> 00:02:57,460
+highest is the management with under 6%. Our market cap as of March 12 is $104 million.
+
+27
+00:02:59,939 --> 00:03:07,460
+Please now turn to slide 4. Let me highlight to you the most important matters that impacted
+
+28
+00:03:07,460 --> 00:03:15,620
+our 2020 results. Firstly, and most relevant from the point of financial results, was the
+
+29
+00:03:15,620 --> 00:03:20,500
+completion of the sale of the immediate 60 megawatt investment rights, collecting an
+
+30
+00:03:21,099 --> 00:03:28,939
+aggregate amount of $41.6 million. This was a terrific outcome for a project that was still
+
+31
+00:03:28,939 --> 00:03:33,300
+in the development stages. As a result of this transaction, we were able to
+
+32
+00:03:34,560 --> 00:03:41,979
+get ready to pay our corporate bond in early 2021. Very excited about this outcome.
+
+33
+00:03:42,879 --> 00:03:48,979
+We also completed the sale of PV Salvador assets in Chile. Although this asset has
+
+34
+00:03:48,979 --> 00:03:54,400
+been completely written off, we're able to collect additional $3.3 million in sales proceeds.
+
+35
+00:03:55,580 --> 00:04:03,500
+On the operational side, the operating assets deliver in all three key metrics
+
+36
+00:04:03,840 --> 00:04:06,680
+with a four-year guidance in the mid-level.
+
+37
+00:04:09,800 --> 00:04:14,060
+And then on the 45-megawatt Niigata solar project under construction,
+
+38
+00:04:14,659 --> 00:04:19,160
+it's on a schedule and budget. Modules are being delivered on site. We're first stage
+
+39
+00:04:19,160 --> 00:04:24,300
+of installation underway. We'll take a bit more, we'll talk a little bit more about this
+
+40
+00:04:24,300 --> 00:04:34,879
+project in a few minutes. We funded the escrow as of December with the proceeds of the MIA projects,
+
+41
+00:04:34,980 --> 00:04:42,800
+as I mentioned earlier, to repay the corporate bond in 2021. The last item that we also, I think,
+
+42
+00:04:42,839 --> 00:04:52,259
+was very important to highlight in 2020 that we engaged a financial advisor for the sale of the
+
+43
+00:04:52,259 --> 00:05:04,899
+next slide. If you turn to slide six, I would like to update you on the sales process. As you know,
+
+44
+00:05:05,839 --> 00:05:12,079
+we made a decision last summer to engage a financial advisor to assist the company
+
+45
+00:05:12,079 --> 00:05:16,600
+address the many parties interested on our operating assets in Japan.
+
+46
+00:05:17,680 --> 00:05:27,180
+We hire Mitsubishi Morgan Stanley, the team based in Tokyo, to assist the company manage this process.
+
+47
+00:05:29,360 --> 00:05:46,579
+This whole process was broken down into three phases. The first phase, which started in the
+
+48
+00:05:46,579 --> 00:05:55,220
+offers on the third quarter of 2020. As part of the phase two, we shortlisted a selected few
+
+49
+00:05:56,360 --> 00:06:04,800
+to obtain binding offers that were then selected and obtained to start the phase three.
+
+50
+00:06:05,540 --> 00:06:13,459
+So, in phase three, we selected one consortium for the potential sale of the four operating assets,
+
+51
+00:06:14,620 --> 00:06:19,819
+and we are targeting to sign the stock purchase agreement before the end of April.
+
+52
+00:06:21,180 --> 00:06:24,199
+This transaction, obviously, is subject to approval,
+
+53
+00:06:25,139 --> 00:06:29,259
+and closing is expected approximately by the end of June.
+
+54
+00:06:30,620 --> 00:06:35,139
+For the Niigata project, which is under construction, we selected a different consortium,
+
+55
+00:06:36,480 --> 00:06:41,160
+and we're also targeting to sign the stock purchase agreement before the end of April.
+
+56
+00:06:43,459 --> 00:06:48,480
+This asset also will be subject to shareholders approval, which is expected
+
+57
+00:06:48,500 --> 00:06:55,139
+approximately by the end of June. So, under current structure, because we are
+
+58
+00:06:55,899 --> 00:07:01,040
+selling substantially all the assets, it is the reason why we need to go through the
+
+59
+00:07:01,040 --> 00:07:08,699
+shareholders approval, which we should schedule shortly, and then that's what we're expecting
+
+60
+00:07:08,699 --> 00:07:16,660
+to have the financial close sometime in June. Management is confident agreement will be signed,
+
+61
+00:07:16,839 --> 00:07:20,639
+but obviously major obstacles remain to be resolved over the next few weeks.
+
+62
+00:07:21,560 --> 00:07:28,560
+There is a possibility of some delays, but we remain optimistic that they will be able
+
+63
+00:07:28,560 --> 00:07:37,939
+to meet the objectives as we have outlined above. On the next slide, if you could turn to slide A,
+
+64
+00:07:39,220 --> 00:07:46,339
+it shows you the graphical location of all the projects that are currently for sale that we're
+
+65
+00:07:46,339 --> 00:07:53,579
+going through the process, and I'll provide you an update on where we are with these five projects.
+
+66
+00:07:54,459 --> 00:08:01,259
+The first one, if you go to slide nine, our existing operational assets continue to deliver
+
+67
+00:08:01,279 --> 00:08:06,040
+strong results. Although we had less than hours than expected,
+
+68
+00:08:06,680 --> 00:08:18,459
+the systems performed have significantly met the objectives as we outlined in the guidance for the
+
+69
+00:08:18,459 --> 00:08:27,279
+2020 year. We were able to reduce the O&M cost as well as we were able to improve the EBITDA.
+
+70
+00:08:28,839 --> 00:08:37,779
+If you go to the next slide, I would like to update you on one particular situation regarding
+
+71
+00:08:37,779 --> 00:08:44,259
+one of the plans that we have in the four operating assets. During January and February of 2021,
+
+72
+00:08:45,259 --> 00:08:50,500
+the Mississauga area experienced the worst snowstorms recorded in the past 25 years.
+
+73
+00:08:51,159 --> 00:08:55,379
+As a result of the storms and freezing temperatures, two of the four solar assets
+
+74
+00:08:56,100 --> 00:09:02,440
+for Mississauga had some damages. The production of electricity was partially interrupted,
+
+75
+00:09:03,360 --> 00:09:10,740
+and they will be interrupted until the damages are repaired. The solar project company has
+
+76
+00:09:11,559 --> 00:09:18,279
+property and business interruption insurance, which we are currently discussing, that should cover
+
+77
+00:09:18,279 --> 00:09:27,159
+both the cost of damage and also any revenues that may have been dropped as a result of these
+
+78
+00:09:27,759 --> 00:09:32,980
+damages. We expect to have these parts fully restored by June of this year.
+
+79
+00:09:35,519 --> 00:09:40,000
+Let me now – one thing, actually, before I go to the next slide, I just want to highlight that
+
+80
+00:09:40,000 --> 00:09:46,940
+the team in Japan has done a fantastic job in managing this situation. As always, they have
+
+81
+00:09:46,940 --> 00:09:55,059
+been terrific, providing very quick solutions and being very proactive in resolving any problems
+
+82
+00:09:55,059 --> 00:09:59,980
+that we have on site. Let me now go to a
+
+83
+00:10:02,559 --> 00:10:12,139
+As you may recall, if you go to slide 12, this project is scheduled to reach COD. COD,
+
+84
+00:10:12,279 --> 00:10:20,820
+as you may recall, is when we actually begin generating revenues. By Q4 2021, this project
+
+85
+00:10:20,820 --> 00:10:27,980
+has very strong, very rich economics with a payback of two years from COD. And we own
+
+86
+00:10:28,539 --> 00:10:34,100
+100% of this project. Obviously, this is one of the projects that is on the sales process.
+
+87
+00:10:35,039 --> 00:10:41,580
+The project has a very attractive project finance through a corporate bond, a green bond,
+
+88
+00:10:41,779 --> 00:10:49,740
+that we did in 2019. And it has a long-term fixed-price power purchase agreement with
+
+89
+00:10:50,529 --> 00:11:00,210
+Electric Corporation. The project will be generating about 47 gigawatts once operational.
+
+90
+00:11:01,289 --> 00:11:10,429
+Please turn to the next slide. In this slide, it shows a graph with project timing for completion,
+
+91
+00:11:11,070 --> 00:11:15,649
+which I have been presenting every quarter for investors to track our project execution.
+
+92
+00:11:16,509 --> 00:11:22,950
+We have also included aerial photos from our civil works to document the project as shown
+
+93
+00:11:23,149 --> 00:11:29,370
+the complexity of the site. Unfortunately, like you, I can only enjoy the progress of this massive
+
+94
+00:11:29,370 --> 00:11:35,590
+project from afar, watching drone videos, aerial photos, and through our weekly project report.
+
+95
+00:11:36,470 --> 00:11:43,190
+We look forward to be able to go back as soon as Japan opens for foreigners to come back for
+
+96
+00:11:43,190 --> 00:11:48,049
+business or visitors. I want to take this opportunity to acknowledge the outstanding job
+
+97
+00:11:48,049 --> 00:11:56,330
+that Toyo Engineering, together with my team, my entrance team, has been able to continue this
+
+98
+00:11:56,330 --> 00:12:02,289
+project on budget and on time. They have managed a superb engineering project despite COVID
+
+99
+00:12:02,289 --> 00:12:09,629
+restriction and heavy winter. I'm pleased with their performance. If you go to the next slide,
+
+100
+00:12:09,629 --> 00:12:18,850
+2014, you can see in graphical form with photos on the extent of the
+
+101
+00:12:19,110 --> 00:12:24,669
+project. You can see there that a large number of modules have already been installed
+
+102
+00:12:25,330 --> 00:12:34,190
+and that it's very well advanced on the project. Again, we're very delighted with the progress of
+
+103
+00:12:34,190 --> 00:12:43,850
+this construction. With that, I would like to turn now the presentation over to our CFO,
+
+104
+00:12:44,210 --> 00:12:48,289
+Cristian La Puebla. Thank you very much, Marc Antonio.
+
+105
+00:12:49,809 --> 00:12:57,990
+Moving to slide 16. As we already anticipated in the previous slides, Etron continues to deliver
+
+106
+00:12:57,990 --> 00:13:03,269
+steady project-level results during this year with our Japanese assets performing well
+
+107
+00:13:03,269 --> 00:13:11,169
+despite low solar radiation. It all resulted in stable revenue, project-level EBITDA,
+
+108
+00:13:11,450 --> 00:13:19,610
+and consolidated EBITDA. Our production was down by 4.7% and revenue 2.3%, but on the whole,
+
+109
+00:13:19,690 --> 00:13:26,710
+project EBITDA was up 1% compared to last year. Our restructuring of our cost base
+
+110
+00:13:26,710 --> 00:13:33,730
+dropped this result and managed to offset all unfavorable weather conditions.
+
+111
+00:13:34,610 --> 00:13:39,149
+If you look at full-year cost of EBITDA, it was positively impacted by two elements.
+
+112
+00:13:39,330 --> 00:13:45,230
+By the sale of the MIE project rights for $33.4 million and by the income we received
+
+113
+00:13:45,230 --> 00:13:49,570
+for arranging the sale of PV Salvador, which was around $3.3 million.
+
+114
+00:13:52,509 --> 00:13:58,570
+As a reminder from previous slides, 2020 financials are presented as per FRS 5,
+
+115
+00:13:58,690 --> 00:14:02,590
+which means that we present assets for healthful sale and discontinued operations.
+
+116
+00:14:03,169 --> 00:14:10,669
+We started this presentation in Q3 2020. Corporate G&A was affected by the reclassification
+
+117
+00:14:10,669 --> 00:14:15,710
+from Balanchi to Pinel of accumulated legal and personal costs in connection with the UK
+
+118
+00:14:15,710 --> 00:14:24,389
+litigation, around $0.7 million, and by the Japanese asset sale transaction expenses of $0.5
+
+119
+00:14:24,529 --> 00:14:31,289
+million. On the whole, the net income reached $22.5 million, driven mainly by the gain of the
+
+120
+00:14:31,289 --> 00:14:35,629
+sale of the MIE project income and the income arranging from the sale of PV Salvador.
+
+121
+00:14:36,429 --> 00:14:44,649
+As a reminder, our Niigata project of 45 MW was approximately 72% completed at the end of Q4
+
+122
+00:14:44,669 --> 00:14:53,750
+2020 and on track to reach COD by Q4 2021. For more detail on our project level EBITDA in Japan,
+
+123
+00:14:53,830 --> 00:14:58,470
+you can refer to our financials under the segment note or the MD&A.
+
+124
+00:14:59,429 --> 00:15:06,509
+Moving to slide 17, as you can see in this slide, ETRON's 57 operational portfolio has
+
+125
+00:15:06,509 --> 00:15:12,129
+consistently delivered predictable results in terms of revenue and EBITDA, which in turn provide
+
+126
+00:15:12,129 --> 00:15:18,909
+a steady source of funds. Here is also reflected the benefits of having acquired the HT stake
+
+127
+00:15:19,470 --> 00:15:24,230
+as we now own 100% of the project and its cash flows.
+
+128
+00:15:25,409 --> 00:15:33,830
+Moving on to the next slide, slide 18. The two segments, when you look at solar Japan during
+
+129
+00:15:34,470 --> 00:15:41,110
+2020, the group's Japanese solar access generated revenues of $21.4 million and EBITDA of $16.6
+
+130
+00:15:41,629 --> 00:15:48,490
+million, which though there was a decrease of $2.3 million, but it read an increase of $0.8
+
+131
+00:15:48,490 --> 00:15:53,190
+in terms of EBITDA compared to last year. As I said, the optimization of the Japanese corporate
+
+132
+00:15:53,190 --> 00:15:57,590
+structure and renegotiation of the NM contracts partially offset the impact of lower solar
+
+133
+00:15:57,590 --> 00:16:02,909
+irrigation levels compared to last year. As a result, it is important to notice the group's
+
+134
+00:16:02,909 --> 00:16:07,990
+Japanese segment generated a net income of $3 million compared with a net income of $2.1 million
+
+135
+00:16:07,990 --> 00:16:16,210
+for the same period in 2019. When you look at the corporate segment during this year,
+
+136
+00:16:16,210 --> 00:16:23,389
+the group's corporate segment generated positive EBITDA of $26.8 million and a net income of $19.5
+
+137
+00:16:23,389 --> 00:16:29,029
+compared to a negative EBITDA of $2.4 million and a net loss of $6.4 million, respectively,
+
+138
+00:16:29,250 --> 00:16:35,909
+last year. EBITDA and net results were positively impacted by, again, the gain of the sale of
+
+139
+00:16:35,909 --> 00:16:41,889
+hedge fund's economic interest in the MIR 60 MW solar project and the income from arranging the
+
+140
+00:16:42,129 --> 00:16:48,070
+sale of PV Salvador of $3.3 million. On the other side, the company recognized $1.1 million of
+
+141
+00:16:48,250 --> 00:16:52,889
+unrecoverable withholding taxes triggered by an investment contribution to one of our Japanese
+
+142
+00:16:52,870 --> 00:16:59,789
+subsidiaries, $0.5 million of tax expense related to the tax assessments received in 2020 in
+
+143
+00:16:59,789 --> 00:17:05,170
+connection with a prior sale of our Italian assets, and finally, $0.3 million of write-off
+
+144
+00:17:05,170 --> 00:17:11,650
+expenses related to our wind project. Moving to slide 19.
+
+145
+00:17:18,950 --> 00:17:25,690
+Erickson has a working capital corporate level of $0.8 million and a conciliated unrestricted
+
+146
+00:17:25,690 --> 00:17:30,930
+cash position of $8.9 million. After the $46 million of cash belonging to the corporate
+
+147
+00:17:30,930 --> 00:17:37,309
+segment, $37 million has been transferred to an SO account in order to redeem the corporate bond
+
+148
+00:17:37,309 --> 00:17:43,170
+on January 7, 2021. This concludes the financial review.
+
+149
+00:17:45,190 --> 00:17:54,589
+Thank you, Cristian. Before we close the four-year presentation, I would like to highlight
+
+150
+00:17:54,589 --> 00:18:02,470
+the following messages. Etreon continues to deliver strong financial performance
+
+151
+00:18:02,470 --> 00:18:08,829
+in all key operating metrics, demonstrating excellent execution in all operational activities.
+
+152
+00:18:09,349 --> 00:18:13,990
+We're fully funded with no additional capital required to complete the construction of any
+
+153
+00:18:13,990 --> 00:18:21,869
+other project. We have actually delivered now a company that has no corporate debt.
+
+154
+00:18:23,009 --> 00:18:29,930
+We manage to expect to reach agreement with the parties to sell substantially all of its assets
+
+155
+00:18:29,930 --> 00:18:38,970
+by April. Obviously, there's no assurance that this can be a delay, but we are very confident
+
+156
+00:18:38,970 --> 00:18:46,150
+that we'll be able to deliver the signed agreements with the different parties engaged in
+
+157
+00:18:46,150 --> 00:18:51,750
+the process of the acquisition of all the assets in Japan. So, with that, I would like to
+
+158
+00:18:54,430 --> 00:19:01,650
+provide complete our four-year report and back the call to Michelle, our operator,
+
+159
+00:19:02,170 --> 00:19:06,230
+that would open the call for questions. Thank you.
+
+160
+00:19:07,089 --> 00:19:13,289
+Thank you. If anybody would like to ask a question, please press star 1 on your telephone
+
+161
+00:19:13,289 --> 00:19:20,609
+keypad. Again, that would be star 1 on your telephone keypad. Your first question comes from
+
+162
+00:19:20,609 --> 00:19:28,130
+Martin Middlestad, a private investor. Your line is open. Hi, Marco. I was wondering if you could
+
+163
+00:19:28,130 --> 00:19:34,569
+elaborate on what the future of the company will be if the Japanese assets are sold as you now
+
+164
+00:19:34,769 --> 00:19:43,970
+they will be. Thank you, Martin. Great question. As we have outlined, we plan to
+
+165
+00:19:47,730 --> 00:19:56,650
+present and distribute a large portion of the proceeds upon the completion of the sales of the
+
+166
+00:19:57,630 --> 00:19:59,970
+project. And within the next...
+
+167
+00:20:00,000 --> 00:20:08,700
+Over the next four to six weeks, we plan to submit a document to all shareholders, which
+
+168
+00:20:08,700 --> 00:20:15,980
+we call the Management Information Circular, where we will outline the transactions for
+
+169
+00:20:15,980 --> 00:20:24,200
+approval and where we will be discussing our plans for distributions and what we're planning
+
+170
+00:20:24,200 --> 00:20:36,539
+to do. Very likely, we will be distributing most of the cash and one of the main options
+
+171
+00:20:36,539 --> 00:20:39,839
+of consideration is to wind up the company.
+
+172
+00:20:40,400 --> 00:20:49,299
+Can you elaborate on what the status of the current tax liabilities are in terms of the
+
+173
+00:20:49,299 --> 00:20:51,380
+amount and when there might be resolution?
+
+174
+00:20:51,380 --> 00:21:01,720
+Yeah, so under what we are... Actually, what I'll do is, Cristian, can you maybe ask that
+
+175
+00:21:01,720 --> 00:21:07,799
+question in terms of how the... from the tax perspective, if you don't mind, please?
+
+176
+00:21:09,940 --> 00:21:15,339
+What was your question? Is it about tax liabilities regarding Italy or what was your question?
+
+177
+00:21:15,480 --> 00:21:24,880
+No, there's the tax liability case in Italy that's pending a resolution. I thought there
+
+178
+00:21:24,880 --> 00:21:26,200
+were claims on that.
+
+179
+00:21:26,200 --> 00:21:31,380
+Well, it's not a tax liability. It's a tax asset. It's a tax asset. It's in our favor.
+
+180
+00:21:31,880 --> 00:21:32,160
+Sorry.
+
+181
+00:21:32,420 --> 00:21:32,980
+That's why I was asking.
+
+182
+00:21:32,980 --> 00:21:39,839
+Yes. Is that the amount until 11 to 15 and resolution expected this year or next?
+
+183
+00:21:40,640 --> 00:21:46,160
+This year or next, correct. Yes, we're pending on a court judgment. Exactly.
+
+184
+00:21:46,740 --> 00:21:50,339
+And is it one case this year and one case next year?
+
+185
+00:21:52,019 --> 00:21:59,240
+It depends on if there's any appeals. We expect some resolution between Q2 and Q3 this year,
+
+186
+00:21:59,240 --> 00:22:04,599
+but unfortunately, as you know, COVID delays many things and we don't know
+
+187
+00:22:04,839 --> 00:22:11,599
+if the judgment will be delayed, but we expect at least a second level judgment at
+
+188
+00:22:11,599 --> 00:22:20,660
+some times in Q3 and maybe a first level between Q3 and Q4. It all depends on COVID,
+
+189
+00:22:20,720 --> 00:22:23,960
+but we're positive that we may get an answer this year.
+
+190
+00:22:24,400 --> 00:22:27,920
+Is the amount still 11 to 15 million euros?
+
+191
+00:22:27,920 --> 00:22:28,799
+Yes, correct.
+
+192
+00:22:29,960 --> 00:22:36,859
+And in the other cases that have been brought in these tax cases, have the companies generally
+
+193
+00:22:37,019 --> 00:22:41,160
+won? I think in a previous conference call, you mentioned that all the cases have been
+
+194
+00:22:41,160 --> 00:22:44,799
+resolved in favor of the claimants. Is that still the case?
+
+195
+00:22:48,200 --> 00:22:49,660
+Yes, I think that.
+
+196
+00:22:50,380 --> 00:22:58,480
+Yes, to our knowledge, all the cases have been favorable for the company.
+
+197
+00:22:59,380 --> 00:23:05,000
+So going forward, you're going to distribute most of the proceeds to shareholders and then
+
+198
+00:23:05,000 --> 00:23:10,480
+potentially wind up the company pending the resolution of these tax cases. Is that a fair
+
+199
+00:23:10,480 --> 00:23:10,859
+summation?
+
+200
+00:23:11,299 --> 00:23:11,359
+Correct.
+
+201
+00:23:12,000 --> 00:23:12,480
+Correct.
+
+202
+00:23:13,059 --> 00:23:13,059
+
+
+203
+00:23:13,180 --> 00:23:20,500
+I mean, so if there was some potential upside, we would obviously maintain those and
+
+204
+00:23:20,500 --> 00:23:23,960
+those would be then distributed, the net proceeds as well.
+
+205
+00:23:25,519 --> 00:23:29,039
+All right, great. Those are all the questions I had. Thank you.
+
+206
+00:23:29,259 --> 00:23:29,940
+Thank you, Martin.
+
+207
+00:23:30,599 --> 00:23:31,920
+Thank you, Martin.
+
+208
+00:23:33,240 --> 00:23:39,119
+Again, if anybody would like to ask a question, please press star one on your telephone keypad.
+
+209
+00:23:39,119 --> 00:23:42,539
+That would be star one on your telephone keypad.
+
+210
+00:23:44,819 --> 00:23:49,099
+I have no further questions at this time. I turn the call back over to our presenters
+
+211
+00:23:49,099 --> 00:23:50,599
+for closing remarks.
+
+212
+00:23:51,880 --> 00:23:57,380
+Thank you for joining the 2020 Operational Finance Call and we look forward to updating you
+
+213
+00:23:57,380 --> 00:24:01,420
+on our progress in the months ahead. Thank you and have a great day. Thank you.
+
+214
+00:24:02,119 --> 00:24:06,759
+Thank you, everyone. This will conclude today's conference call. You may now disconnect.

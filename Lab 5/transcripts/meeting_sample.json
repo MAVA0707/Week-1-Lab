@@ -1,0 +1,1078 @@
+{
+  "metadata": {
+    "source": "audio/meeting_sample.mp3",
+    "prompt_used": true
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.62,
+      "text": "Ladies and gentlemen, thank you for standing by and welcome to the Etrion 2020 year-end report."
+    },
+    {
+      "start": 7.08,
+      "end": 12.08,
+      "text": "At this time, all participants are in a listen-only mode. After the speaker's presentation,"
+    },
+    {
+      "start": 12.3,
+      "end": 17.24,
+      "text": "there will be a question and answer session. To ask a question during the session, you will need"
+    },
+    {
+      "start": 17.24,
+      "end": 22.92,
+      "text": "to press star 1 on your telephone keypad. If you require any further assistance, please press star"
+    },
+    {
+      "start": 22.86,
+      "end": 28.16,
+      "text": "0. Please be advised that today's conference is being recorded. I would now like to hand the"
+    },
+    {
+      "start": 28.42,
+      "end": 32.68,
+      "text": "conference over to Marco Antonio Northland, CEO. Please go ahead."
+    },
+    {
+      "start": 33.94,
+      "end": 41.0,
+      "text": "Thank you, Michelle. I would like to welcome you to Etrion's 2020 fourth quarter and four-year"
+    },
+    {
+      "start": 41.0,
+      "end": 47.4,
+      "text": "operational finance update call. I'm here today with Cristian La Puebla, our Chief Financial"
+    },
+    {
+      "start": 47.12,
+      "end": 54.34,
+      "text": "Officer, Martin Orebic, our Chief Investment Officer, and David Ramirez, our Director of"
+    },
+    {
+      "start": 54.4,
+      "end": 60.94,
+      "text": "Accounting and Reporting. I will start today the call by taking you through the corporate"
+    },
+    {
+      "start": 60.94,
+      "end": 68.14,
+      "text": "overview and operational update and outlook for our businesses. Then we will go through"
+    },
+    {
+      "start": 68.14,
+      "end": 76.36,
+      "text": "our 2020 results, and finally, we will open the calls for questions. As a reminder, a replay of"
+    },
+    {
+      "start": 76.36,
+      "end": 83.6,
+      "text": "this call will be available today on the company's website with a copy of the presentation that we"
+    },
+    {
+      "start": 83.6,
+      "end": 90.26,
+      "text": "will offer and refer to throughout the call. For those of you using our webcast facility,"
+    },
+    {
+      "start": 91.02,
+      "end": 93.94,
+      "text": "the slides will automatically advance during the presentation."
+    },
+    {
+      "start": 96.06,
+      "end": 102.86,
+      "text": "If you turn to slide 2, there is a disclaimer on which, during today's call, we will make"
+    },
+    {
+      "start": 102.86,
+      "end": 107.24,
+      "text": "forward-looking statements that are subject to various risks and uncertainties described"
+    },
+    {
+      "start": 107.24,
+      "end": 113.72,
+      "text": "in the second slide of this presentation and in our 2020 management discussion and analysis and"
+    },
+    {
+      "start": 113.72,
+      "end": 118.92,
+      "text": "press release, all of which are available on our website. Please see these documents"
+    },
+    {
+      "start": 118.92,
+      "end": 123.3,
+      "text": "for additional information and factors that may impact these forward-looking statements."
+    },
+    {
+      "start": 125.02,
+      "end": 133.96,
+      "text": "Please now turn to slide 3. Etrion has a dual listing in Canada under TSX"
+    },
+    {
+      "start": 136.12,
+      "end": 143.28,
+      "text": "and under the ETX symbol, as well as OMX in Sweden, as well under the ETX symbol."
+    },
+    {
+      "start": 143.94,
+      "end": 150.82,
+      "text": "We have 57 networks operational, 45 networks under construction, all fully funded,"
+    },
+    {
+      "start": 151.18,
+      "end": 158.78,
+      "text": "which are all in Japan. We exited 2020 with a strong cash flow position of $8.9 million"
+    },
+    {
+      "start": 158.78,
+      "end": 168.28,
+      "text": "of non-restricted cash. The main shareholder is the Lundin Group with 36%, and second is the"
+    },
+    {
+      "start": 168.28,
+      "end": 177.46,
+      "text": "highest is the management with under 6%. Our market cap as of March 12 is $104 million."
+    },
+    {
+      "start": 179.94,
+      "end": 187.46,
+      "text": "Please now turn to slide 4. Let me highlight to you the most important matters that impacted"
+    },
+    {
+      "start": 187.46,
+      "end": 195.62,
+      "text": "our 2020 results. Firstly, and most relevant from the point of financial results, was the"
+    },
+    {
+      "start": 195.62,
+      "end": 200.5,
+      "text": "completion of the sale of the immediate 60 megawatt investment rights, collecting an"
+    },
+    {
+      "start": 201.1,
+      "end": 208.94,
+      "text": "aggregate amount of $41.6 million. This was a terrific outcome for a project that was still"
+    },
+    {
+      "start": 208.94,
+      "end": 213.3,
+      "text": "in the development stages. As a result of this transaction, we were able to"
+    },
+    {
+      "start": 214.56,
+      "end": 221.98,
+      "text": "get ready to pay our corporate bond in early 2021. Very excited about this outcome."
+    },
+    {
+      "start": 222.88,
+      "end": 228.98,
+      "text": "We also completed the sale of PV Salvador assets in Chile. Although this asset has"
+    },
+    {
+      "start": 228.98,
+      "end": 234.4,
+      "text": "been completely written off, we're able to collect additional $3.3 million in sales proceeds."
+    },
+    {
+      "start": 235.58,
+      "end": 243.5,
+      "text": "On the operational side, the operating assets deliver in all three key metrics"
+    },
+    {
+      "start": 243.84,
+      "end": 246.68,
+      "text": "with a four-year guidance in the mid-level."
+    },
+    {
+      "start": 249.8,
+      "end": 254.06,
+      "text": "And then on the 45-megawatt Niigata solar project under construction,"
+    },
+    {
+      "start": 254.66,
+      "end": 259.16,
+      "text": "it's on a schedule and budget. Modules are being delivered on site. We're first stage"
+    },
+    {
+      "start": 259.16,
+      "end": 264.3,
+      "text": "of installation underway. We'll take a bit more, we'll talk a little bit more about this"
+    },
+    {
+      "start": 264.3,
+      "end": 274.88,
+      "text": "project in a few minutes. We funded the escrow as of December with the proceeds of the MIA projects,"
+    },
+    {
+      "start": 274.98,
+      "end": 282.8,
+      "text": "as I mentioned earlier, to repay the corporate bond in 2021. The last item that we also, I think,"
+    },
+    {
+      "start": 282.84,
+      "end": 292.26,
+      "text": "was very important to highlight in 2020 that we engaged a financial advisor for the sale of the"
+    },
+    {
+      "start": 292.26,
+      "end": 304.9,
+      "text": "next slide. If you turn to slide six, I would like to update you on the sales process. As you know,"
+    },
+    {
+      "start": 305.84,
+      "end": 312.08,
+      "text": "we made a decision last summer to engage a financial advisor to assist the company"
+    },
+    {
+      "start": 312.08,
+      "end": 316.6,
+      "text": "address the many parties interested on our operating assets in Japan."
+    },
+    {
+      "start": 317.68,
+      "end": 327.18,
+      "text": "We hire Mitsubishi Morgan Stanley, the team based in Tokyo, to assist the company manage this process."
+    },
+    {
+      "start": 329.36,
+      "end": 346.58,
+      "text": "This whole process was broken down into three phases. The first phase, which started in the"
+    },
+    {
+      "start": 346.58,
+      "end": 355.22,
+      "text": "offers on the third quarter of 2020. As part of the phase two, we shortlisted a selected few"
+    },
+    {
+      "start": 356.36,
+      "end": 364.8,
+      "text": "to obtain binding offers that were then selected and obtained to start the phase three."
+    },
+    {
+      "start": 365.54,
+      "end": 373.46,
+      "text": "So, in phase three, we selected one consortium for the potential sale of the four operating assets,"
+    },
+    {
+      "start": 374.62,
+      "end": 379.82,
+      "text": "and we are targeting to sign the stock purchase agreement before the end of April."
+    },
+    {
+      "start": 381.18,
+      "end": 384.2,
+      "text": "This transaction, obviously, is subject to approval,"
+    },
+    {
+      "start": 385.14,
+      "end": 389.26,
+      "text": "and closing is expected approximately by the end of June."
+    },
+    {
+      "start": 390.62,
+      "end": 395.14,
+      "text": "For the Niigata project, which is under construction, we selected a different consortium,"
+    },
+    {
+      "start": 396.48,
+      "end": 401.16,
+      "text": "and we're also targeting to sign the stock purchase agreement before the end of April."
+    },
+    {
+      "start": 403.46,
+      "end": 408.48,
+      "text": "This asset also will be subject to shareholders approval, which is expected"
+    },
+    {
+      "start": 408.5,
+      "end": 415.14,
+      "text": "approximately by the end of June. So, under current structure, because we are"
+    },
+    {
+      "start": 415.9,
+      "end": 421.04,
+      "text": "selling substantially all the assets, it is the reason why we need to go through the"
+    },
+    {
+      "start": 421.04,
+      "end": 428.7,
+      "text": "shareholders approval, which we should schedule shortly, and then that's what we're expecting"
+    },
+    {
+      "start": 428.7,
+      "end": 436.66,
+      "text": "to have the financial close sometime in June. Management is confident agreement will be signed,"
+    },
+    {
+      "start": 436.84,
+      "end": 440.64,
+      "text": "but obviously major obstacles remain to be resolved over the next few weeks."
+    },
+    {
+      "start": 441.56,
+      "end": 448.56,
+      "text": "There is a possibility of some delays, but we remain optimistic that they will be able"
+    },
+    {
+      "start": 448.56,
+      "end": 457.94,
+      "text": "to meet the objectives as we have outlined above. On the next slide, if you could turn to slide A,"
+    },
+    {
+      "start": 459.22,
+      "end": 466.34,
+      "text": "it shows you the graphical location of all the projects that are currently for sale that we're"
+    },
+    {
+      "start": 466.34,
+      "end": 473.58,
+      "text": "going through the process, and I'll provide you an update on where we are with these five projects."
+    },
+    {
+      "start": 474.46,
+      "end": 481.26,
+      "text": "The first one, if you go to slide nine, our existing operational assets continue to deliver"
+    },
+    {
+      "start": 481.28,
+      "end": 486.04,
+      "text": "strong results. Although we had less than hours than expected,"
+    },
+    {
+      "start": 486.68,
+      "end": 498.46,
+      "text": "the systems performed have significantly met the objectives as we outlined in the guidance for the"
+    },
+    {
+      "start": 498.46,
+      "end": 507.28,
+      "text": "2020 year. We were able to reduce the O&M cost as well as we were able to improve the EBITDA."
+    },
+    {
+      "start": 508.84,
+      "end": 517.78,
+      "text": "If you go to the next slide, I would like to update you on one particular situation regarding"
+    },
+    {
+      "start": 517.78,
+      "end": 524.26,
+      "text": "one of the plans that we have in the four operating assets. During January and February of 2021,"
+    },
+    {
+      "start": 525.26,
+      "end": 530.5,
+      "text": "the Mississauga area experienced the worst snowstorms recorded in the past 25 years."
+    },
+    {
+      "start": 531.16,
+      "end": 535.38,
+      "text": "As a result of the storms and freezing temperatures, two of the four solar assets"
+    },
+    {
+      "start": 536.1,
+      "end": 542.44,
+      "text": "for Mississauga had some damages. The production of electricity was partially interrupted,"
+    },
+    {
+      "start": 543.36,
+      "end": 550.74,
+      "text": "and they will be interrupted until the damages are repaired. The solar project company has"
+    },
+    {
+      "start": 551.56,
+      "end": 558.28,
+      "text": "property and business interruption insurance, which we are currently discussing, that should cover"
+    },
+    {
+      "start": 558.28,
+      "end": 567.16,
+      "text": "both the cost of damage and also any revenues that may have been dropped as a result of these"
+    },
+    {
+      "start": 567.76,
+      "end": 572.98,
+      "text": "damages. We expect to have these parts fully restored by June of this year."
+    },
+    {
+      "start": 575.52,
+      "end": 580.0,
+      "text": "Let me now – one thing, actually, before I go to the next slide, I just want to highlight that"
+    },
+    {
+      "start": 580.0,
+      "end": 586.94,
+      "text": "the team in Japan has done a fantastic job in managing this situation. As always, they have"
+    },
+    {
+      "start": 586.94,
+      "end": 595.06,
+      "text": "been terrific, providing very quick solutions and being very proactive in resolving any problems"
+    },
+    {
+      "start": 595.06,
+      "end": 599.98,
+      "text": "that we have on site. Let me now go to a"
+    },
+    {
+      "start": 602.56,
+      "end": 612.14,
+      "text": "As you may recall, if you go to slide 12, this project is scheduled to reach COD. COD,"
+    },
+    {
+      "start": 612.28,
+      "end": 620.82,
+      "text": "as you may recall, is when we actually begin generating revenues. By Q4 2021, this project"
+    },
+    {
+      "start": 620.82,
+      "end": 627.98,
+      "text": "has very strong, very rich economics with a payback of two years from COD. And we own"
+    },
+    {
+      "start": 628.54,
+      "end": 634.1,
+      "text": "100% of this project. Obviously, this is one of the projects that is on the sales process."
+    },
+    {
+      "start": 635.04,
+      "end": 641.58,
+      "text": "The project has a very attractive project finance through a corporate bond, a green bond,"
+    },
+    {
+      "start": 641.78,
+      "end": 649.74,
+      "text": "that we did in 2019. And it has a long-term fixed-price power purchase agreement with"
+    },
+    {
+      "start": 650.53,
+      "end": 660.21,
+      "text": "Electric Corporation. The project will be generating about 47 gigawatts once operational."
+    },
+    {
+      "start": 661.29,
+      "end": 670.43,
+      "text": "Please turn to the next slide. In this slide, it shows a graph with project timing for completion,"
+    },
+    {
+      "start": 671.07,
+      "end": 675.65,
+      "text": "which I have been presenting every quarter for investors to track our project execution."
+    },
+    {
+      "start": 676.51,
+      "end": 682.95,
+      "text": "We have also included aerial photos from our civil works to document the project as shown"
+    },
+    {
+      "start": 683.15,
+      "end": 689.37,
+      "text": "the complexity of the site. Unfortunately, like you, I can only enjoy the progress of this massive"
+    },
+    {
+      "start": 689.37,
+      "end": 695.59,
+      "text": "project from afar, watching drone videos, aerial photos, and through our weekly project report."
+    },
+    {
+      "start": 696.47,
+      "end": 703.19,
+      "text": "We look forward to be able to go back as soon as Japan opens for foreigners to come back for"
+    },
+    {
+      "start": 703.19,
+      "end": 708.05,
+      "text": "business or visitors. I want to take this opportunity to acknowledge the outstanding job"
+    },
+    {
+      "start": 708.05,
+      "end": 716.33,
+      "text": "that Toyo Engineering, together with my team, my entrance team, has been able to continue this"
+    },
+    {
+      "start": 716.33,
+      "end": 722.29,
+      "text": "project on budget and on time. They have managed a superb engineering project despite COVID"
+    },
+    {
+      "start": 722.29,
+      "end": 729.63,
+      "text": "restriction and heavy winter. I'm pleased with their performance. If you go to the next slide,"
+    },
+    {
+      "start": 729.63,
+      "end": 738.85,
+      "text": "2014, you can see in graphical form with photos on the extent of the"
+    },
+    {
+      "start": 739.11,
+      "end": 744.67,
+      "text": "project. You can see there that a large number of modules have already been installed"
+    },
+    {
+      "start": 745.33,
+      "end": 754.19,
+      "text": "and that it's very well advanced on the project. Again, we're very delighted with the progress of"
+    },
+    {
+      "start": 754.19,
+      "end": 763.85,
+      "text": "this construction. With that, I would like to turn now the presentation over to our CFO,"
+    },
+    {
+      "start": 764.21,
+      "end": 768.29,
+      "text": "Cristian La Puebla. Thank you very much, Marc Antonio."
+    },
+    {
+      "start": 769.81,
+      "end": 777.99,
+      "text": "Moving to slide 16. As we already anticipated in the previous slides, Etron continues to deliver"
+    },
+    {
+      "start": 777.99,
+      "end": 783.27,
+      "text": "steady project-level results during this year with our Japanese assets performing well"
+    },
+    {
+      "start": 783.27,
+      "end": 791.17,
+      "text": "despite low solar radiation. It all resulted in stable revenue, project-level EBITDA,"
+    },
+    {
+      "start": 791.45,
+      "end": 799.61,
+      "text": "and consolidated EBITDA. Our production was down by 4.7% and revenue 2.3%, but on the whole,"
+    },
+    {
+      "start": 799.69,
+      "end": 806.71,
+      "text": "project EBITDA was up 1% compared to last year. Our restructuring of our cost base"
+    },
+    {
+      "start": 806.71,
+      "end": 813.73,
+      "text": "dropped this result and managed to offset all unfavorable weather conditions."
+    },
+    {
+      "start": 814.61,
+      "end": 819.15,
+      "text": "If you look at full-year cost of EBITDA, it was positively impacted by two elements."
+    },
+    {
+      "start": 819.33,
+      "end": 825.23,
+      "text": "By the sale of the MIE project rights for $33.4 million and by the income we received"
+    },
+    {
+      "start": 825.23,
+      "end": 829.57,
+      "text": "for arranging the sale of PV Salvador, which was around $3.3 million."
+    },
+    {
+      "start": 832.51,
+      "end": 838.57,
+      "text": "As a reminder from previous slides, 2020 financials are presented as per FRS 5,"
+    },
+    {
+      "start": 838.69,
+      "end": 842.59,
+      "text": "which means that we present assets for healthful sale and discontinued operations."
+    },
+    {
+      "start": 843.17,
+      "end": 850.67,
+      "text": "We started this presentation in Q3 2020. Corporate G&A was affected by the reclassification"
+    },
+    {
+      "start": 850.67,
+      "end": 855.71,
+      "text": "from Balanchi to Pinel of accumulated legal and personal costs in connection with the UK"
+    },
+    {
+      "start": 855.71,
+      "end": 864.39,
+      "text": "litigation, around $0.7 million, and by the Japanese asset sale transaction expenses of $0.5"
+    },
+    {
+      "start": 864.53,
+      "end": 871.29,
+      "text": "million. On the whole, the net income reached $22.5 million, driven mainly by the gain of the"
+    },
+    {
+      "start": 871.29,
+      "end": 875.63,
+      "text": "sale of the MIE project income and the income arranging from the sale of PV Salvador."
+    },
+    {
+      "start": 876.43,
+      "end": 884.65,
+      "text": "As a reminder, our Niigata project of 45 MW was approximately 72% completed at the end of Q4"
+    },
+    {
+      "start": 884.67,
+      "end": 893.75,
+      "text": "2020 and on track to reach COD by Q4 2021. For more detail on our project level EBITDA in Japan,"
+    },
+    {
+      "start": 893.83,
+      "end": 898.47,
+      "text": "you can refer to our financials under the segment note or the MD&A."
+    },
+    {
+      "start": 899.43,
+      "end": 906.51,
+      "text": "Moving to slide 17, as you can see in this slide, ETRON's 57 operational portfolio has"
+    },
+    {
+      "start": 906.51,
+      "end": 912.13,
+      "text": "consistently delivered predictable results in terms of revenue and EBITDA, which in turn provide"
+    },
+    {
+      "start": 912.13,
+      "end": 918.91,
+      "text": "a steady source of funds. Here is also reflected the benefits of having acquired the HT stake"
+    },
+    {
+      "start": 919.47,
+      "end": 924.23,
+      "text": "as we now own 100% of the project and its cash flows."
+    },
+    {
+      "start": 925.41,
+      "end": 933.83,
+      "text": "Moving on to the next slide, slide 18. The two segments, when you look at solar Japan during"
+    },
+    {
+      "start": 934.47,
+      "end": 941.11,
+      "text": "2020, the group's Japanese solar access generated revenues of $21.4 million and EBITDA of $16.6"
+    },
+    {
+      "start": 941.63,
+      "end": 948.49,
+      "text": "million, which though there was a decrease of $2.3 million, but it read an increase of $0.8"
+    },
+    {
+      "start": 948.49,
+      "end": 953.19,
+      "text": "in terms of EBITDA compared to last year. As I said, the optimization of the Japanese corporate"
+    },
+    {
+      "start": 953.19,
+      "end": 957.59,
+      "text": "structure and renegotiation of the NM contracts partially offset the impact of lower solar"
+    },
+    {
+      "start": 957.59,
+      "end": 962.91,
+      "text": "irrigation levels compared to last year. As a result, it is important to notice the group's"
+    },
+    {
+      "start": 962.91,
+      "end": 967.99,
+      "text": "Japanese segment generated a net income of $3 million compared with a net income of $2.1 million"
+    },
+    {
+      "start": 967.99,
+      "end": 976.21,
+      "text": "for the same period in 2019. When you look at the corporate segment during this year,"
+    },
+    {
+      "start": 976.21,
+      "end": 983.39,
+      "text": "the group's corporate segment generated positive EBITDA of $26.8 million and a net income of $19.5"
+    },
+    {
+      "start": 983.39,
+      "end": 989.03,
+      "text": "compared to a negative EBITDA of $2.4 million and a net loss of $6.4 million, respectively,"
+    },
+    {
+      "start": 989.25,
+      "end": 995.91,
+      "text": "last year. EBITDA and net results were positively impacted by, again, the gain of the sale of"
+    },
+    {
+      "start": 995.91,
+      "end": 1001.89,
+      "text": "hedge fund's economic interest in the MIR 60 MW solar project and the income from arranging the"
+    },
+    {
+      "start": 1002.13,
+      "end": 1008.07,
+      "text": "sale of PV Salvador of $3.3 million. On the other side, the company recognized $1.1 million of"
+    },
+    {
+      "start": 1008.25,
+      "end": 1012.89,
+      "text": "unrecoverable withholding taxes triggered by an investment contribution to one of our Japanese"
+    },
+    {
+      "start": 1012.87,
+      "end": 1019.79,
+      "text": "subsidiaries, $0.5 million of tax expense related to the tax assessments received in 2020 in"
+    },
+    {
+      "start": 1019.79,
+      "end": 1025.17,
+      "text": "connection with a prior sale of our Italian assets, and finally, $0.3 million of write-off"
+    },
+    {
+      "start": 1025.17,
+      "end": 1031.65,
+      "text": "expenses related to our wind project. Moving to slide 19."
+    },
+    {
+      "start": 1038.95,
+      "end": 1045.69,
+      "text": "Erickson has a working capital corporate level of $0.8 million and a conciliated unrestricted"
+    },
+    {
+      "start": 1045.69,
+      "end": 1050.93,
+      "text": "cash position of $8.9 million. After the $46 million of cash belonging to the corporate"
+    },
+    {
+      "start": 1050.93,
+      "end": 1057.31,
+      "text": "segment, $37 million has been transferred to an SO account in order to redeem the corporate bond"
+    },
+    {
+      "start": 1057.31,
+      "end": 1063.17,
+      "text": "on January 7, 2021. This concludes the financial review."
+    },
+    {
+      "start": 1065.19,
+      "end": 1074.59,
+      "text": "Thank you, Cristian. Before we close the four-year presentation, I would like to highlight"
+    },
+    {
+      "start": 1074.59,
+      "end": 1082.47,
+      "text": "the following messages. Etreon continues to deliver strong financial performance"
+    },
+    {
+      "start": 1082.47,
+      "end": 1088.83,
+      "text": "in all key operating metrics, demonstrating excellent execution in all operational activities."
+    },
+    {
+      "start": 1089.35,
+      "end": 1093.99,
+      "text": "We're fully funded with no additional capital required to complete the construction of any"
+    },
+    {
+      "start": 1093.99,
+      "end": 1101.87,
+      "text": "other project. We have actually delivered now a company that has no corporate debt."
+    },
+    {
+      "start": 1103.01,
+      "end": 1109.93,
+      "text": "We manage to expect to reach agreement with the parties to sell substantially all of its assets"
+    },
+    {
+      "start": 1109.93,
+      "end": 1118.97,
+      "text": "by April. Obviously, there's no assurance that this can be a delay, but we are very confident"
+    },
+    {
+      "start": 1118.97,
+      "end": 1126.15,
+      "text": "that we'll be able to deliver the signed agreements with the different parties engaged in"
+    },
+    {
+      "start": 1126.15,
+      "end": 1131.75,
+      "text": "the process of the acquisition of all the assets in Japan. So, with that, I would like to"
+    },
+    {
+      "start": 1134.43,
+      "end": 1141.65,
+      "text": "provide complete our four-year report and back the call to Michelle, our operator,"
+    },
+    {
+      "start": 1142.17,
+      "end": 1146.23,
+      "text": "that would open the call for questions. Thank you."
+    },
+    {
+      "start": 1147.09,
+      "end": 1153.29,
+      "text": "Thank you. If anybody would like to ask a question, please press star 1 on your telephone"
+    },
+    {
+      "start": 1153.29,
+      "end": 1160.61,
+      "text": "keypad. Again, that would be star 1 on your telephone keypad. Your first question comes from"
+    },
+    {
+      "start": 1160.61,
+      "end": 1168.13,
+      "text": "Martin Middlestad, a private investor. Your line is open. Hi, Marco. I was wondering if you could"
+    },
+    {
+      "start": 1168.13,
+      "end": 1174.57,
+      "text": "elaborate on what the future of the company will be if the Japanese assets are sold as you now"
+    },
+    {
+      "start": 1174.77,
+      "end": 1183.97,
+      "text": "they will be. Thank you, Martin. Great question. As we have outlined, we plan to"
+    },
+    {
+      "start": 1187.73,
+      "end": 1196.65,
+      "text": "present and distribute a large portion of the proceeds upon the completion of the sales of the"
+    },
+    {
+      "start": 1197.63,
+      "end": 1199.97,
+      "text": "project. And within the next..."
+    },
+    {
+      "start": 1200.0,
+      "end": 1208.7,
+      "text": "Over the next four to six weeks, we plan to submit a document to all shareholders, which"
+    },
+    {
+      "start": 1208.7,
+      "end": 1215.98,
+      "text": "we call the Management Information Circular, where we will outline the transactions for"
+    },
+    {
+      "start": 1215.98,
+      "end": 1224.2,
+      "text": "approval and where we will be discussing our plans for distributions and what we're planning"
+    },
+    {
+      "start": 1224.2,
+      "end": 1236.54,
+      "text": "to do. Very likely, we will be distributing most of the cash and one of the main options"
+    },
+    {
+      "start": 1236.54,
+      "end": 1239.84,
+      "text": "of consideration is to wind up the company."
+    },
+    {
+      "start": 1240.4,
+      "end": 1249.3,
+      "text": "Can you elaborate on what the status of the current tax liabilities are in terms of the"
+    },
+    {
+      "start": 1249.3,
+      "end": 1251.38,
+      "text": "amount and when there might be resolution?"
+    },
+    {
+      "start": 1251.38,
+      "end": 1261.72,
+      "text": "Yeah, so under what we are... Actually, what I'll do is, Cristian, can you maybe ask that"
+    },
+    {
+      "start": 1261.72,
+      "end": 1267.8,
+      "text": "question in terms of how the... from the tax perspective, if you don't mind, please?"
+    },
+    {
+      "start": 1269.94,
+      "end": 1275.34,
+      "text": "What was your question? Is it about tax liabilities regarding Italy or what was your question?"
+    },
+    {
+      "start": 1275.48,
+      "end": 1284.88,
+      "text": "No, there's the tax liability case in Italy that's pending a resolution. I thought there"
+    },
+    {
+      "start": 1284.88,
+      "end": 1286.2,
+      "text": "were claims on that."
+    },
+    {
+      "start": 1286.2,
+      "end": 1291.38,
+      "text": "Well, it's not a tax liability. It's a tax asset. It's a tax asset. It's in our favor."
+    },
+    {
+      "start": 1291.88,
+      "end": 1292.16,
+      "text": "Sorry."
+    },
+    {
+      "start": 1292.42,
+      "end": 1292.98,
+      "text": "That's why I was asking."
+    },
+    {
+      "start": 1292.98,
+      "end": 1299.84,
+      "text": "Yes. Is that the amount until 11 to 15 and resolution expected this year or next?"
+    },
+    {
+      "start": 1300.64,
+      "end": 1306.16,
+      "text": "This year or next, correct. Yes, we're pending on a court judgment. Exactly."
+    },
+    {
+      "start": 1306.74,
+      "end": 1310.34,
+      "text": "And is it one case this year and one case next year?"
+    },
+    {
+      "start": 1312.02,
+      "end": 1319.24,
+      "text": "It depends on if there's any appeals. We expect some resolution between Q2 and Q3 this year,"
+    },
+    {
+      "start": 1319.24,
+      "end": 1324.6,
+      "text": "but unfortunately, as you know, COVID delays many things and we don't know"
+    },
+    {
+      "start": 1324.84,
+      "end": 1331.6,
+      "text": "if the judgment will be delayed, but we expect at least a second level judgment at"
+    },
+    {
+      "start": 1331.6,
+      "end": 1340.66,
+      "text": "some times in Q3 and maybe a first level between Q3 and Q4. It all depends on COVID,"
+    },
+    {
+      "start": 1340.72,
+      "end": 1343.96,
+      "text": "but we're positive that we may get an answer this year."
+    },
+    {
+      "start": 1344.4,
+      "end": 1347.92,
+      "text": "Is the amount still 11 to 15 million euros?"
+    },
+    {
+      "start": 1347.92,
+      "end": 1348.8,
+      "text": "Yes, correct."
+    },
+    {
+      "start": 1349.96,
+      "end": 1356.86,
+      "text": "And in the other cases that have been brought in these tax cases, have the companies generally"
+    },
+    {
+      "start": 1357.02,
+      "end": 1361.16,
+      "text": "won? I think in a previous conference call, you mentioned that all the cases have been"
+    },
+    {
+      "start": 1361.16,
+      "end": 1364.8,
+      "text": "resolved in favor of the claimants. Is that still the case?"
+    },
+    {
+      "start": 1368.2,
+      "end": 1369.66,
+      "text": "Yes, I think that."
+    },
+    {
+      "start": 1370.38,
+      "end": 1378.48,
+      "text": "Yes, to our knowledge, all the cases have been favorable for the company."
+    },
+    {
+      "start": 1379.38,
+      "end": 1385.0,
+      "text": "So going forward, you're going to distribute most of the proceeds to shareholders and then"
+    },
+    {
+      "start": 1385.0,
+      "end": 1390.48,
+      "text": "potentially wind up the company pending the resolution of these tax cases. Is that a fair"
+    },
+    {
+      "start": 1390.48,
+      "end": 1390.86,
+      "text": "summation?"
+    },
+    {
+      "start": 1391.3,
+      "end": 1391.36,
+      "text": "Correct."
+    },
+    {
+      "start": 1392.0,
+      "end": 1392.48,
+      "text": "Correct."
+    },
+    {
+      "start": 1393.06,
+      "end": 1393.06,
+      "text": ""
+    },
+    {
+      "start": 1393.18,
+      "end": 1400.5,
+      "text": "I mean, so if there was some potential upside, we would obviously maintain those and"
+    },
+    {
+      "start": 1400.5,
+      "end": 1403.96,
+      "text": "those would be then distributed, the net proceeds as well."
+    },
+    {
+      "start": 1405.52,
+      "end": 1409.04,
+      "text": "All right, great. Those are all the questions I had. Thank you."
+    },
+    {
+      "start": 1409.26,
+      "end": 1409.94,
+      "text": "Thank you, Martin."
+    },
+    {
+      "start": 1410.6,
+      "end": 1411.92,
+      "text": "Thank you, Martin."
+    },
+    {
+      "start": 1413.24,
+      "end": 1419.12,
+      "text": "Again, if anybody would like to ask a question, please press star one on your telephone keypad."
+    },
+    {
+      "start": 1419.12,
+      "end": 1422.54,
+      "text": "That would be star one on your telephone keypad."
+    },
+    {
+      "start": 1424.82,
+      "end": 1429.1,
+      "text": "I have no further questions at this time. I turn the call back over to our presenters"
+    },
+    {
+      "start": 1429.1,
+      "end": 1430.6,
+      "text": "for closing remarks."
+    },
+    {
+      "start": 1431.88,
+      "end": 1437.38,
+      "text": "Thank you for joining the 2020 Operational Finance Call and we look forward to updating you"
+    },
+    {
+      "start": 1437.38,
+      "end": 1441.42,
+      "text": "on our progress in the months ahead. Thank you and have a great day. Thank you."
+    },
+    {
+      "start": 1442.12,
+      "end": 1446.76,
+      "text": "Thank you, everyone. This will conclude today's conference call. You may now disconnect."
+    }
+  ]
+}
